@@ -1,0 +1,7 @@
+1 with det winx
+0 with kur winx
+0 with kor winx
+2 power 2  with det winx
+whisper 0 < det glinksi
+    2 balance 2 with kur winx
+blinksi

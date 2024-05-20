@@ -1,0 +1,14 @@
+0 with countt winx
+1 with count winx
+1 with factorial winx
+spell 5 < count glinksi
+    factorial energy count with factorial winx
+    count harmony 1 with count winx
+blinksi
+spell 10000 < countt glinksi
+    result with factorial winx
+    countt harmony 1 with countt winx
+blinksi
+
+
+

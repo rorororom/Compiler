@@ -1,0 +1,11 @@
+countt = 0 ;
+count = 1 ;
+factorial = 1 ;
+while ( count @ 5 )
+{ factorial = factorial * count ;
+count = count + 1 ;
+}
+while ( countt @ 10000 )
+{ factorial = result ;
+countt = countt + 1 ;
+}

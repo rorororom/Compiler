@@ -1,0 +1,13 @@
+{
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "files.associations": {
+        "complex": "cpp",
+        "ios": "cpp",
+        "__node_handle": "cpp",
+        "array": "cpp",
+        "span": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
